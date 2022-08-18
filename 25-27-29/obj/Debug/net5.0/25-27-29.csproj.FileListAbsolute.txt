@@ -1,0 +1,16 @@
+C:\Users\Никита\Desktop\25-27-29\25-27-29\obj\Debug\net5.0\25-27-29.csproj.AssemblyReference.cache
+C:\Users\Никита\Desktop\25-27-29\25-27-29\obj\Debug\net5.0\25-27-29.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Никита\Desktop\25-27-29\25-27-29\obj\Debug\net5.0\25-27-29.AssemblyInfoInputs.cache
+C:\Users\Никита\Desktop\25-27-29\25-27-29\obj\Debug\net5.0\25-27-29.AssemblyInfo.cs
+C:\Users\Никита\Desktop\25-27-29\25-27-29\obj\Debug\net5.0\25-27-29.csproj.CoreCompileInputs.cache
+C:\Users\Никита\Desktop\25-27-29\25-27-29\bin\Debug\net5.0\25-27-29.exe
+C:\Users\Никита\Desktop\25-27-29\25-27-29\bin\Debug\net5.0\25-27-29.deps.json
+C:\Users\Никита\Desktop\25-27-29\25-27-29\bin\Debug\net5.0\25-27-29.runtimeconfig.json
+C:\Users\Никита\Desktop\25-27-29\25-27-29\bin\Debug\net5.0\25-27-29.runtimeconfig.dev.json
+C:\Users\Никита\Desktop\25-27-29\25-27-29\bin\Debug\net5.0\25-27-29.dll
+C:\Users\Никита\Desktop\25-27-29\25-27-29\bin\Debug\net5.0\ref\25-27-29.dll
+C:\Users\Никита\Desktop\25-27-29\25-27-29\bin\Debug\net5.0\25-27-29.pdb
+C:\Users\Никита\Desktop\25-27-29\25-27-29\obj\Debug\net5.0\25-27-29.dll
+C:\Users\Никита\Desktop\25-27-29\25-27-29\obj\Debug\net5.0\ref\25-27-29.dll
+C:\Users\Никита\Desktop\25-27-29\25-27-29\obj\Debug\net5.0\25-27-29.pdb
+C:\Users\Никита\Desktop\25-27-29\25-27-29\obj\Debug\net5.0\25-27-29.genruntimeconfig.cache
